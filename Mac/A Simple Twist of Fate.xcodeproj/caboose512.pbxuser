@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8CB693CE1307B898002E3346 /* A Simple Twist of Fate */;
+		activeTarget = 8DD76F620486A84900D96B5E /* A Simple Twist of Fate */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* A Simple Twist of Fate */,
+		);
+		codeSenseManager = 8CB693D31307B8A1002E3346 /* Code sense */;
+		executables = (
+			8CB693CE1307B898002E3346 /* A Simple Twist of Fate */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339463122;
+			PBXWorkspaceStateSaveDate = 339463122;
+		};
+		perUserProjectItems = {
+			8C1343521315CE8C0027B694 /* PBXTextBookmark */ = 8C1343521315CE8C0027B694 /* PBXTextBookmark */;
+			8C1343531315CE8C0027B694 /* PBXTextBookmark */ = 8C1343531315CE8C0027B694 /* PBXTextBookmark */;
+			8C1343A71315D0D50027B694 /* PBXTextBookmark */ = 8C1343A71315D0D50027B694 /* PBXTextBookmark */;
+			8C1DB426143BCC8400819D3A /* PBXTextBookmark */ = 8C1DB426143BCC8400819D3A /* PBXTextBookmark */;
+			8C1DB427143BCC8400819D3A /* PBXTextBookmark */ = 8C1DB427143BCC8400819D3A /* PBXTextBookmark */;
+			8C1DB428143BCC8400819D3A /* PBXTextBookmark */ = 8C1DB428143BCC8400819D3A /* PBXTextBookmark */;
+			8C1DB429143BCC8400819D3A /* PBXTextBookmark */ = 8C1DB429143BCC8400819D3A /* PBXTextBookmark */;
+			8C1DB42A143BCC8400819D3A /* PBXTextBookmark */ = 8C1DB42A143BCC8400819D3A /* PBXTextBookmark */;
+			8CF1732E1315DDEF004181C3 /* PBXTextBookmark */ = 8CF1732E1315DDEF004181C3 /* PBXTextBookmark */;
+			8CF1732F1315DDEF004181C3 /* PBXTextBookmark */ = 8CF1732F1315DDEF004181C3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8CB693D21307B8A1002E3346 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8C1343521315CE8C0027B694 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859E8B029090EE04C91782 /* A Simple Twist of Fate.1 */;
+		name = "A Simple Twist of Fate.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 0;
+	};
+	8C1343531315CE8C0027B694 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693DD1307B916002E3346 /* combat.cpp */;
+		name = "combat.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	8C1343A71315D0D50027B694 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E11307B916002E3346 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 0;
+	};
+	8C1DB426143BCC8400819D3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E71307B916002E3346 /* story.h */;
+		name = "story.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	8C1DB427143BCC8400819D3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E51307B916002E3346 /* playerclass.h */;
+		name = "playerclass.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	8C1DB428143BCC8400819D3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E01307B916002E3346 /* itemclass.h */;
+		name = "itemclass.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 0;
+	};
+	8C1DB429143BCC8400819D3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E81307B916002E3346 /* storyclass.cpp */;
+		name = "storyclass.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 21;
+	};
+	8C1DB42A143BCC8400819D3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E81307B916002E3346 /* storyclass.cpp */;
+		name = "storyclass.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 21;
+	};
+	8CB693CE1307B898002E3346 /* A Simple Twist of Fate */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "A Simple Twist of Fate";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	8CB693D21307B8A1002E3346 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8CB693D31307B8A1002E3346 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8CB693DD1307B916002E3346 /* combat.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 1768}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	8CB693DF1307B916002E3346 /* itemclass.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 589}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 707}";
+			sepNavWindowFrame = "{{15, 336}, {1032, 717}}";
+		};
+	};
+	8CB693E01307B916002E3346 /* itemclass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 286}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 419}";
+		};
+	};
+	8CB693E11307B916002E3346 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 910}}";
+			sepNavSelRange = "{1937, 0}";
+			sepNavVisRange = "{1217, 996}";
+			sepNavWindowFrame = "{{50, 378}, {908, 649}}";
+		};
+	};
+	8CB693E31307B916002E3346 /* partyclass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 537}";
+		};
+	};
+	8CB693E41307B916002E3346 /* playerclass.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 1677}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 409}";
+			sepNavWindowFrame = "{{1000, 409}, {908, 649}}";
+		};
+	};
+	8CB693E51307B916002E3346 /* playerclass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 462}";
+			sepNavWindowFrame = "{{42, 383}, {908, 649}}";
+		};
+	};
+	8CB693E61307B916002E3346 /* story.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2366}}";
+			sepNavSelRange = "{740, 0}";
+			sepNavVisRange = "{313, 1523}";
+			sepNavWindowFrame = "{{634, 292}, {1032, 717}}";
+		};
+	};
+	8CB693E71307B916002E3346 /* story.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	8CB693E81307B916002E3346 /* storyclass.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4359, 10296}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{21, 329}";
+			sepNavWindowFrame = "{{42, 383}, {908, 649}}";
+		};
+	};
+	8CF1732E1315DDEF004181C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E31307B916002E3346 /* partyclass.h */;
+		name = "partyclass.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	8CF1732F1315DDEF004181C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CB693E41307B916002E3346 /* playerclass.cpp */;
+		name = "playerclass.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* A Simple Twist of Fate */ = {
+		activeExec = 0;
+		executables = (
+			8CB693CE1307B898002E3346 /* A Simple Twist of Fate */,
+		);
+	};
+	C6859E8B029090EE04C91782 /* A Simple Twist of Fate.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 928}";
+			sepNavWindowFrame = "{{19, 215}, {750, 558}}";
+		};
+	};
+}
